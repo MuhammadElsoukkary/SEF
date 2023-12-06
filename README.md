@@ -52,7 +52,7 @@ Welcome to the XYZ Cinemas Online Ticket Purchasing Website! This guide will hel
 Components interact logically for a seamless experience.
 
 ## User Interface Design
-## See Diagrams, Arch and Detail folder for all all pictures and diagrams
+See Diagrams, Arch and Detail folder for all all pictures and diagrams
 
 ### Homepage
 
@@ -62,9 +62,7 @@ Components interact logically for a seamless experience.
 
 ### Ticket Quantity
 
-
 ### Seat Availability
-
 
 ### Snacks/Drinks Purchase
 
