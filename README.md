@@ -1,102 +1,96 @@
-Diagrams, Arch and Detail
 # XYZ Cinemas Online Ticket Purchasing Website User Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-3. [Architectural Design](#architectural-design)
-4. [User Interface Design](#user-interface-design)
-5. [Features](#features)
-6. [Printing Tickets](#printing-tickets)
-
+3. [Browsing Movies](#browsing-movies)
+4. [Choosing a Movie and Showtime](#choosing-a-movie-and-showtime)
+5. [Selecting Tickets and Seats](#selecting-tickets-and-seats)
+6. [Adding Snacks and Drinks](#adding-snacks-and-drinks)
+7. [Reviewing and Paying](#reviewing-and-paying)
+8. [Printing Tickets](#printing-tickets)
+9. [Features](#features)
+10. [FAQs and Assistance](#faqs-and-assistance)
 
 ## Introduction
 
-Welcome to the XYZ Cinemas Online Ticket Purchasing Website! This guide will help you navigate through the exciting features that make buying movie tickets and snacks/drinks online a breeze.
+Welcome to XYZ Cinemas! This guide will help you easily buy movie tickets online.
 
 ## Getting Started
 
+Please note all diagrams and pictures related to the website can be found in the folder titled Diagrams,Arch and Detail
+
 1. **Homepage:**
-   - Explore the website and select a movie.
+   - Open your web browser and go to [www.xyzcinemas.com](www.xyzcinemas.com).
+   - Look for a button that says "Browse Movies" or explore featured movies directly on the homepage.
 
-2. **Movie Selection:**
-   - Choose your movie.
+## Browsing Movies
 
-3. **Time Selection:**
-   - Pick a showtime.
+2. **Selecting a Movie:**
+   - Click on a movie poster or title to view more details.
+   - To go back to the previous page, look for a button that says "Back to Movies" or use your browser's back arrow.
+
+## Choosing a Movie and Showtime
+
+3. **Showtimes:**
+   - On the movie details page, find a button that says "Showtimes" or something similar.
+   - Pick a preferred time by clicking on the corresponding button.
 
 4. **Ticket Quantity:**
-   - Enter the number of tickets (minimum 1).
+   - Look for an option that says "Select Tickets" or similar.
+   - Enter the number of tickets you want and click a button like "Continue" or "Next."
 
-5. **Seat Availability:**
-   - Check and confirm seat availability.
+## Selecting Tickets and Seats
 
-6. **Snacks/Drinks:**
-   - Optionally add snacks and drinks.
+5. **Choose Seats:**
+   - Find a button that says "Select Seats" or similar.
+   - Click on the available seats you want. Look for a confirmation button like "Confirm Seats."
 
-7. **Review and Pay:**
-   - Review your order and proceed to payment.
+## Adding Snacks and Drinks
 
-## Architectural Design
+6. **Snacks and Drinks:**
+   - If you want snacks and drinks, find a button that says "Add Snacks" or similar.
+   - Browse options, select what you want, and click a button like "Add to Order."
 
-### Overview
-- **Homepage**
-- **Movie Selection**
-- **Time Selection**
-- **Ticket Quantity**
-- **Seat Availability**
-- **Snacks/Drinks Purchase**
-- **Review and Pay**
+## Reviewing and Paying
 
-### Interaction
-Components interact logically for a seamless experience.
+7. **Order Review:**
+   - Look for a button that says "Review Order" or similar.
+   - Check your movie, showtime, tickets, and snacks/drinks. Click a button like "Proceed to Payment."
 
-## User Interface Design
-See Diagrams, Arch and Detail folder for all all pictures and diagrams
-
-### Homepage
-
-### Movie Selection
-
-### Time Selection
-
-### Ticket Quantity
-
-### Seat Availability
-
-### Snacks/Drinks Purchase
-
-## Features
-
-### 1. Movie Variety
-   - Explore a diverse range of movies and genres.
-
-### 2. Intuitive Interface
-   - Navigate through the website effortlessly.
-
-### 3. Flexible Showtimes
-   - Choose from a variety of showtimes for your selected movie.
-
-### 4. Seat Availability
-   - Confirm seat availability in real-time.
-
-### 5. Snacks and Drinks
-   - Enhance your movie experience with optional snacks and drinks.
-
-### 6. Order Review
-   - Review your order details before making a payment.
-
-### 7. Easy Payment
-   - Seamlessly complete the payment process.
-
-### 8. Print Tickets
-   - Conveniently print your movie and snacks/drinks tickets.
-
-### 9. Check for errors 
-   - We do all the work to allow you to relax knowing you will not run into any bugs
+8. **Payment:**
+   - Choose your payment method and enter your details.
+   - Look for a button like "Pay Now" or "Complete Purchase."
 
 ## Printing Tickets
 
-After payment, print tickets using your browser's setup.
+9. **Print Tickets:**
+   - After payment, find a button that says "Print Tickets" or similar.
+   - Use your browser's print option to print your tickets.
 
+## Features
 
+10. **Exciting Features:**
+   | Feature                | What it Does                                      |
+   |------------------------|----------------------------------------------------|
+   | Movie Variety          | Lots of different movies to choose from.         |
+   | Intuitive Interface     | Easy to click and find what you need.             |
+   | Flexible Showtimes      | Pick a time that works for you.                   |
+   | Real-Time Seat Availability | See which seats are available as you pick.      |
+   | Snacks and Drinks       | Buy snacks and drinks to enjoy during the movie.  |
+   | Order Review            | Double-check your order before paying.            |
+   | Easy Payment            | Pay with your preferred method.                    |
+   | Printable Tickets       | Print your tickets from your computer.            |
+
+## FAQs and Assistance
+
+11. **FAQs:**
+   - Get answers to common questions by finding a button that says "FAQs" or similar.
+
+12. **User Assistance:**
+   - Need help? Look for a button that says "Chat Support" or email [support@xyzcinemas.com].
+
+Enjoy your movie night at XYZ Cinemas!
+
+---
+Note: Adjust the website URL and contact information based on the actual details of the XYZ Cinemas Online Ticket Purchasing Website.
