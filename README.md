@@ -33,18 +33,17 @@ Please note all diagrams and pictures related to the website can be found in the
 ## Choosing a Movie and Showtime
 
 3. **Showtimes:**
-   - On the movie details page, find a button that says "Showtimes" or something similar.
-   - Pick a preferred time by clicking on the corresponding button.
-
+   - On the movie details page, simply click on the time you want to see it at with the times listed on the buttons
 4. **Ticket Quantity:**
-   - Look for an option that says "Select Tickets" or similar.
+   - Look for an option that says # Tickets
    - Enter the number of tickets you want and click a button like "Continue" or "Next."
+   - From there you can either go and add snacks using thr Add drinks and snacks button or go to checkout with the Contunie to checkout button
 
 ## Selecting Tickets and Seats
 
 5. **Choose Seats:**
-   - Find a button that says "Select Seats" or similar.
-   - Click on the available seats you want. Look for a confirmation button like "Confirm Seats."
+   - You will then be taken to a page where you simply click on the seat in the row and column you want then cick checkout
+   - You can also edit the ticket amount with a + and - button right beside it 
 
 ## Adding Snacks and Drinks
 
@@ -92,5 +91,3 @@ Please note all diagrams and pictures related to the website can be found in the
 
 Enjoy your movie night at XYZ Cinemas!
 
----
-Note: Adjust the website URL and contact information based on the actual details of the XYZ Cinemas Online Ticket Purchasing Website.
